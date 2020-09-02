@@ -1,1 +1,1 @@
-# tensorflow-image-classifier-from-array
+Let a pre-trained Tensorflow.js machine learning model, MobileNet, tell you what it's seeing. Click/tap on the first button to import a random image from an array, then hit Classify Image! It will also tell you how confident it is about its answer. Feel free to use my script; I'll appreciate it very much if you could reference this page: https://github.com/misterlimcodes/tensorflow-image-classifier-from-array 
